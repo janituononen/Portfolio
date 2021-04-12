@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>train test split on Jani Tuononen</title>
-    <link>https://github.com/janituononen/Portfolio/tags/train-test-split/</link>
+    <link>https://janituononen.github.io/Portfolio/tags/train-test-split/</link>
     <description>Recent content in train test split on Jani Tuononen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/janituononen/Portfolio/tags/train-test-split/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://janituononen.github.io/Portfolio/tags/train-test-split/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Titanic - Machine learning from disaster</title>
-      <link>https://github.com/janituononen/Portfolio/post/project-1/</link>
+      <link>https://janituononen.github.io/Portfolio/post/project-1/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/janituononen/Portfolio/post/project-1/</guid>
+      <guid>https://janituononen.github.io/Portfolio/post/project-1/</guid>
       <description>I made a model that predicted which passengers survived from the Titanic shipwreck. Dataset had 1309 passengers and crew, 891 in training data and 418 in testing data. The Titanic had total of 2224 passengers and crew. I tried to find out correlation between surviving and sex,age etc.. I used train test split for training and testing data. From training data my best accuracy was with Decision tree classifier almost 94% right.</description>
     </item>
     

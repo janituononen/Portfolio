@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/janituononen/Portfolio/</loc>
+    <loc>https://janituononen.github.io/Portfolio/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/post/</loc>
+    <loc>https://janituononen.github.io/Portfolio/post/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/tags/digit-recognizer/</loc>
+    <loc>https://janituononen.github.io/Portfolio/tags/digit-recognizer/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/post/project-2/</loc>
+    <loc>https://janituononen.github.io/Portfolio/post/project-2/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/tags/mnist/</loc>
+    <loc>https://janituononen.github.io/Portfolio/tags/mnist/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/tags/</loc>
+    <loc>https://janituononen.github.io/Portfolio/tags/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/tags/machine-learning/</loc>
+    <loc>https://janituononen.github.io/Portfolio/tags/machine-learning/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/tags/titanic/</loc>
+    <loc>https://janituononen.github.io/Portfolio/tags/titanic/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/post/project-1/</loc>
+    <loc>https://janituononen.github.io/Portfolio/post/project-1/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/tags/train-test-split/</loc>
+    <loc>https://janituononen.github.io/Portfolio/tags/train-test-split/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/about/</loc>
+    <loc>https://janituononen.github.io/Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/categories/</loc>
+    <loc>https://janituononen.github.io/Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/janituononen/Portfolio/contact/</loc>
+    <loc>https://janituononen.github.io/Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

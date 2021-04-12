@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jani Tuononen</title>
-    <link>https://github.com/janituononen/Portfolio/tags/</link>
+    <link>https://janituononen.github.io/Portfolio/tags/</link>
     <description>Recent content in Tags on Jani Tuononen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/janituononen/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://janituononen.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digit recognizer</title>
-      <link>https://github.com/janituononen/Portfolio/tags/digit-recognizer/</link>
+      <link>https://janituononen.github.io/Portfolio/tags/digit-recognizer/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/janituononen/Portfolio/tags/digit-recognizer/</guid>
+      <guid>https://janituononen.github.io/Portfolio/tags/digit-recognizer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MNIST</title>
-      <link>https://github.com/janituononen/Portfolio/tags/mnist/</link>
+      <link>https://janituononen.github.io/Portfolio/tags/mnist/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/janituononen/Portfolio/tags/mnist/</guid>
+      <guid>https://janituononen.github.io/Portfolio/tags/mnist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning</title>
-      <link>https://github.com/janituononen/Portfolio/tags/machine-learning/</link>
+      <link>https://janituononen.github.io/Portfolio/tags/machine-learning/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/janituononen/Portfolio/tags/machine-learning/</guid>
+      <guid>https://janituononen.github.io/Portfolio/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Titanic</title>
-      <link>https://github.com/janituononen/Portfolio/tags/titanic/</link>
+      <link>https://janituononen.github.io/Portfolio/tags/titanic/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/janituononen/Portfolio/tags/titanic/</guid>
+      <guid>https://janituononen.github.io/Portfolio/tags/titanic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>train test split</title>
-      <link>https://github.com/janituononen/Portfolio/tags/train-test-split/</link>
+      <link>https://janituononen.github.io/Portfolio/tags/train-test-split/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/janituononen/Portfolio/tags/train-test-split/</guid>
+      <guid>https://janituononen.github.io/Portfolio/tags/train-test-split/</guid>
       <description></description>
     </item>
     

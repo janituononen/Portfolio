@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digit recognizer on Jani Tuononen</title>
-    <link>https://github.com/janituononen/Portfolio/tags/digit-recognizer/</link>
+    <link>https://janituononen.github.io/Portfolio/tags/digit-recognizer/</link>
     <description>Recent content in Digit recognizer on Jani Tuononen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/janituononen/Portfolio/tags/digit-recognizer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://janituononen.github.io/Portfolio/tags/digit-recognizer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digit recognizer - Handwritten digits classification</title>
-      <link>https://github.com/janituononen/Portfolio/post/project-2/</link>
+      <link>https://janituononen.github.io/Portfolio/post/project-2/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/janituononen/Portfolio/post/project-2/</guid>
+      <guid>https://janituononen.github.io/Portfolio/post/project-2/</guid>
       <description>The purpose of the project was to use computer vision fundamentals including simple neural networks to find out how well the model can read handwritten digits. The project dataset contained 70000 (train data 42000 &amp;amp; test data 28000) images of handwritten digits. Handwritten digits varied from 0 to 9. I used Keras&amp;rsquo;s Sequential model to get over 99,5% accuracy.    You can see the whole project here</description>
     </item>
     
