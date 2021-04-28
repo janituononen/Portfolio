@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Jani Tuononen</title>
+    <link>https://janituononen.github.io/Portfolio/tags/python/</link>
+    <description>Recent content in python on Jani Tuononen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://janituononen.github.io/Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World Development Indicators</title>
+      <link>https://janituononen.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://janituononen.github.io/Portfolio/post/project-3/</guid>
+      <description>My goal was to find out how my home country Finland has developed since 1970 alongside the United States, which has dominated the world economy in recent decades and China, which has become the second largest economy in the recent years.    You can see the whole project here</description>
+    </item>
+    
+  </channel>
+</rss>
