@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://janituononen.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Database query program - School</title>
+      <link>https://janituononen.github.io/Portfolio/post/project-4/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://janituononen.github.io/Portfolio/post/project-4/</guid>
+      <description>The database query program is in Finnish. It has 5 functions. The database that I have used is from Helsinki University&amp;rsquo;s course &amp;ldquo;Tietokantojen perusteet&amp;rdquo;
+How the program works:
+ Calculate the total number of course credits earned in a given year Print all the transcript of study records of a given student in chronological order Print the distribution of study record grades for a given course Print the top x teachers who has given the most credits Close the program  You can see example how the database query program works here</description>
+    </item>
+    
+    <item>
       <title>World Development Indicators</title>
       <link>https://janituononen.github.io/Portfolio/post/project-3/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>

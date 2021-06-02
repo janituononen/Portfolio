@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Jani Tuononen</title>
+    <link>https://janituononen.github.io/Portfolio/tags/sql/</link>
+    <description>Recent content in SQL on Jani Tuononen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://janituononen.github.io/Portfolio/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database query program - School</title>
+      <link>https://janituononen.github.io/Portfolio/post/project-4/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://janituononen.github.io/Portfolio/post/project-4/</guid>
+      <description>The database query program is in Finnish. It has 5 functions. The database that I have used is from Helsinki University&amp;rsquo;s course &amp;ldquo;Tietokantojen perusteet&amp;rdquo;
+How the program works:
+ Calculate the total number of course credits earned in a given year Print all the transcript of study records of a given student in chronological order Print the distribution of study record grades for a given course Print the top x teachers who has given the most credits Close the program  You can see example how the database query program works here</description>
+    </item>
+    
+  </channel>
+</rss>
